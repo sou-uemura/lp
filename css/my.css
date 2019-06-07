@@ -1,0 +1,95 @@
+.page-section {
+    background-color: #fed136
+}
+
+header.masthead {
+    background-image: url(../img/new-header-bg.jpeg);
+    color: #fed136;
+    -webkit-text-stroke: 1px #000;
+}
+
+header.masthead .intro-text {
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+
+.content-item {
+    display: inline-block;
+    width: 33%;
+}
+
+
+.contents {
+    display: inline-block;
+    max-width: 33%;
+    text-align: center;
+}
+
+.content-item p {
+    margin-top:30px;
+    font-size:24px;
+    text-align: center;
+}
+
+.content-item img {
+    height: 120px;
+    width: 90px;
+    object-fit: contain;
+}
+
+.text-center {
+    margin-top:10px;
+}
+
+h5 {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.contact-btn a {
+    display: inline-block;
+    width: 100%;
+    color: #333;
+}
+
+.contact-btn a:hover {
+    transition: all 0.5s
+}
+
+#skills {
+    background-color: lightgrey;
+}
+
+#services {
+    padding-top: 50px;
+}
+
+
+ul {
+    list-style: none;
+}
+
+.btn-primary {
+    background-color: #fed136;
+    border-color: #000;
+}
+
+.btn1 {
+    text-align: center;
+    margin: 40px 40px 0 40px;
+}
+
+.section-heading {
+    border-bottom: 2px solid #000;
+    padding-bottom: 20px;
+} 
+
+.timeline-body {
+    color:#000;
+}
+
+#thxMessage {
+    text-align:center;
+    color: #fed136;
+}
+
